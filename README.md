@@ -1,4 +1,4 @@
-
+### Hi there! 👋
 
 I am a **second-year Automation & Control Engineering student** at the German International University (GIU). 
 
@@ -6,12 +6,14 @@ My primary interest lies in **control systems engineering**, analyzing the dynam
 
 ---
 
-### My GitHub Stats
+### GitHub Stats:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufAlghoneimy&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufAlghoneimy&show_icons=true&theme=onedark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlghoneimy&layout=compact&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=YusufAlghoneimy&theme=onedark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlghoneimy&layout=compact&theme=onedark)
 
 </div>
