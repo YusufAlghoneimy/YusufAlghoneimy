@@ -8,7 +8,7 @@ My primary interest lies in **control systems engineering**, analyzing the dynam
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAlghoneimy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YusufAlghoneimy&show_icons=true&theme=onedark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -16,5 +16,5 @@ My primary interest lies in **control systems engineering**, analyzing the dynam
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlghoneimy&layout=compact&theme=onedark&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YusufAlghoneimy&layout=compact&theme=onedark&count_private=true" alt="Top Languages" />
 </p>
