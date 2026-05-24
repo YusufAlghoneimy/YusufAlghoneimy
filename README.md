@@ -1,7 +1,6 @@
-### Hi there! 👋
 
-I am a **second-year Automation & Control Engineering student** at the German International University (GIU).  
-My primary interest lies in **control systems engineering**, analyzing the dynamics of new systems, and designing appropriate control strategies for them. Alongside this, I have a long-standing interest in **PCB design** and regularly develop boards in **KiCad** as part of my coursework and personal projects.
+I am a **Second-year Automation & Control Engineering student** at the German International University (GIU).  
+My primary interest lies in **Control Systems Engineering**, analyzing the dynamics of new systems, and designing appropriate control strategies for them. Alongside this, I have a long-standing interest in **PCB design** and regularly develop boards in **KiCad** as part of my coursework and personal projects.
 
 ---
 
