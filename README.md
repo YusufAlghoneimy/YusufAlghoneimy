@@ -1,16 +1,17 @@
-## Second-year Automation & Control Engineering student at the German International University (GIU). My primary interest lies in control systems engineering, analyzing the dynamics of new systems and designing appropriate control strategies for them. Alongside this, I have a long-standing interest in PCB design and regularly develop boards in KiCad as part of my coursework and personal projects.
 
-<!--
-**YusufAlghoneimy/YusufAlghoneimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a **second-year Automation & Control Engineering student** at the German International University (GIU). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary interest lies in **control systems engineering**, analyzing the dynamics of new systems, and designing appropriate control strategies for them. Alongside this, I have a long-standing interest in **PCB design** and regularly develop boards in **KiCad** as part of my coursework and personal projects.
+
+---
+
+### My GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+</div>
