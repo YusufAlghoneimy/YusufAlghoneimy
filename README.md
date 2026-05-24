@@ -6,14 +6,11 @@ My primary interest lies in **control systems engineering**, analyzing the dynam
 
 ---
 
+
 ### GitHub Stats:
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufAlghoneimy&show_icons=true&theme=onedark&count_private=true)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=YusufAlghoneimy&theme=onedark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlghoneimy&layout=compact&theme=onedark)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufAlghoneimy&show_icons=true&theme=onedark&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YusufAlghoneimy&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlghoneimy&layout=compact&theme=onedark" />
+</p>
